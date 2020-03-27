@@ -1,3 +1,5 @@
 # leetcode-cn-python
 
-## 开始刷leetcode题目
+## 项目目录
+
+leetcode-cn-python
